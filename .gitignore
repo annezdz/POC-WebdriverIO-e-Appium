@@ -1,0 +1,4 @@
+.env
+allure-results
+allure-reports
+node_modules
